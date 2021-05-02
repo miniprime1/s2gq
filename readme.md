@@ -9,3 +9,13 @@
 ```
 python s2gq.py <path>
 ```
+
+## Example
+ - Convert one file.
+```
+python s2gq.py hello.c
+```
+ - Convert many files.
+```
+python s2gq.py hello.c mkdir.c calc.c
+```
