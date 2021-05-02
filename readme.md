@@ -1,4 +1,4 @@
-# s2gq: semicolon to greek quesion mark
+# **s2gq**: *s*emicolon *t*o *g*reek *q*uesion mark
  - Replace Semicolon(;) to Greek Question Mark(;)
 
 <br>
