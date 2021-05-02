@@ -1,5 +1,5 @@
-# **s2gq**: *s*emicolon *t*o *g*reek *q*uesion mark
- - Replace Semicolon(;) to Greek Question Mark(;)
+# s2gq: semicolon to greek quesion mark
+ - Replace **S**emicolon(;) **t**o **G**reek **Q**uestion Mark(;)
 
 <br>
 
