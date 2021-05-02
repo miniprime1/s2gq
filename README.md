@@ -1,5 +1,5 @@
 # s2gq: semicolon to greek quesion mark
-
+ - Developers Hate This Repository
 ---
 
 ## Tweet
